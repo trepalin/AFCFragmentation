@@ -1,2 +1,2 @@
 # AFCFragmentation
-Contains fragments for chemical structures from Aurora Fine Chemicals database
+Contains Chemical Structures Fragments of full Aurora Fine Chemical database (August, 2023) and their occurences in the database
